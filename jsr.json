@@ -2,6 +2,5 @@
     "name": "@cjngandwe/shared-utils",
     "version": "0.1.2",
     "license": "MIT",
-    "exports": "./shared-utils.ts",
-    "entry": "./shared-utils.ts"
+    "exports": "./shared-utils.ts"
   }
