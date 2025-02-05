@@ -1,5 +1,0 @@
-{
-  "imports": {
-    "@cjngandwe/shared-utils": "jsr:@cjngandwe/shared-utils@^0.1.0"
-  }
-}
